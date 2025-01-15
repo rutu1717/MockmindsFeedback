@@ -1,0 +1,15 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Model directory if not uploading
+/model/
+
+# System files
+.DS_Store
+.env
